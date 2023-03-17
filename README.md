@@ -23,4 +23,4 @@ Here are some of the most commonly used attributes:
 - INADDR_ANY - A constant that specifies that the socket can accept connections from any network interface.
 - INADDR_LOOPBACK - A constant that specifies the loopback interface.
 
-# Note that this is not an exhaustive list, and the socket library provides many more attributes that can be used depending on the specific use case.
+### Note that this is not an exhaustive list, and the socket library provides many more attributes that can be used depending on the specific use case.
